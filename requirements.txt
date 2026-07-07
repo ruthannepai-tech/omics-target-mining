@@ -1,0 +1,23 @@
+# Core statistics (kernel.py helpers)
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+
+# Data retrieval & enrichment (full pipeline)
+requests
+openpyxl
+GEOparse
+gseapy
+mygene
+
+# Plotting
+matplotlib
+seaborn
+
+# Single-cell stages (optional)
+scanpy
+leidenalg
+harmonypy
+liana
